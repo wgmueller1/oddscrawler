@@ -1,0 +1,114 @@
+1480361068806	geckodriver	INFO	Listening on 127.0.0.1:52029
+1480361069719	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.v9OJ0gV7xwZ9
+1480361069726	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480361069769	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52038
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480361070405	Marionette	INFO	Listening on port 52038
+1480361341888	geckodriver	INFO	Listening on 127.0.0.1:52801
+1480361342842	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.g99EjQX8HsTw
+1480361342847	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480361342855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52810
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480361343454	Marionette	INFO	Listening on port 52810
+1480361399831	geckodriver	INFO	Listening on 127.0.0.1:52852
+1480361400795	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.wEw6JN7Nbqq1
+1480361400801	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480361400818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52861
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480361401406	Marionette	INFO	Listening on port 52861
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 34050] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 34050] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://cck2/CAPSCheckLoadURI.jsm, line 103: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+JavaScript error: resource://cck2/CAPSCheckLoadURI.jsm, line 103: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+1480362384019	geckodriver	INFO	Listening on 127.0.0.1:53399
+1480362384983	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.pATu1giXsu1A
+1480362384992	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480362385008	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53408
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480362385647	Marionette	INFO	Listening on port 53408
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 34094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 34094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1480365993865	geckodriver	INFO	Listening on 127.0.0.1:56024
+1480365994829	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.98kTsgJd6gOa
+1480365994844	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480365994866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56033
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480365995495	Marionette	INFO	Listening on port 56033
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 35775] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 35775] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1480366399213	geckodriver	INFO	Listening on 127.0.0.1:56786
+1480366400177	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.bpmArPKr5Gli
+1480366400183	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480366400192	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56796
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480366400783	Marionette	INFO	Listening on port 56796
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 35807] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 35807] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1480366681215	geckodriver	INFO	Listening on 127.0.0.1:57392
+1480366682170	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.94N1sCuPkQYk
+1480366682178	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480366682186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57401
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480366682732	Marionette	INFO	Listening on port 57401
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 35841] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 35841] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1480366995390	geckodriver	INFO	Listening on 127.0.0.1:57626
+1480366996349	mozprofile::profile	INFO	Using profile path /var/folders/tg/m22bl7xd12331w7zwn6nvbc59yh89f/T/rust_mozprofile.uv3Gbu1By6wC
+1480366996356	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1480366996362	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57635
+JavaScript warning: resource://cck2/CCK2.jsm, line 1028: unreachable code after return statement
+1480366997008	Marionette	INFO	Listening on port 57635
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-161125085759.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: http://connect.facebook.net/en_US/all.js#xfbml=1&appId=393736670647047, line 6: SyntaxError: expected expression, got '<'
+[Child 37324] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 37324] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
