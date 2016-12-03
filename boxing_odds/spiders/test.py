@@ -47,9 +47,9 @@ class BoxingOddsSpider(CrawlSpider):
 
         item = MyItem()
         item['date']=[]
-        item['time']=[]
+        #item['time']=[]
         item['fight']=[]
-        item['result']=[]
+        #item['result']=[]
         item['win1']=[]
         item['draw']=[]
         item['win2']=[]
@@ -58,7 +58,7 @@ class BoxingOddsSpider(CrawlSpider):
         for rows in all_rows1:
             dat=rows.text.split()
             item['date'].append(' '.join(dat[0:3]))
-        
+
         for rows in all_rows2:
             dat=rows.text.split('\n')
             try:
@@ -69,16 +69,23 @@ class BoxingOddsSpider(CrawlSpider):
                 item['draw'].append(dat[2])
                 item['win2'].append(dat[3])
                 item['bookmakers'].append(dat[4])
+
+
             except IndexError:
                 pass
 
+        for i in range(0,len(item.values()[0])):
+            new={}
+            for key in item.keys():
+                new[key]=item[key][i]
+            yield new
         #print(rows.text)
         #for row in rows:
         #    print(row)
         #    print('\n')
-  
-        item['link'] = []
-        item['name'] = []
+
+        #item['link'] = []
+        #item['name'] = []
 
         # for link in LinkExtractor(allow =self.allowed_domains).extract_links(response):
         #     if all(word in link.url for word in ['boxing','results']):
@@ -89,7 +96,10 @@ class BoxingOddsSpider(CrawlSpider):
         #             f.write(response.body)
         #     else:
         #        pass
-        return item
+        return
+        #return item
+
+
 
         self.driver.close()
 
